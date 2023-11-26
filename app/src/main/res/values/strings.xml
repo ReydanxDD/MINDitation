@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">MINDtitation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="title_sleep">
+        <item>Keep in sync with your body\'s natural sleep-wake cycle</item>
+        <item>Bookasdgasdg 2</item>
+        <item>Book 3</item>
+        <item>Book 4</item>
+        <item>Book 5</item>
+        <item>Book 6</item>
+        <item>Book 7</item>
+        <item>Book 8</item>
+        <item>Book 9</item>
+        <item>Book 10</item>
+
+    </string-array>
+
+    <string-array name="detail_sleep">
+        <item>Getting in sync with your body\'s natural sleep-wake cycle, or circadian rhythm, is one of the most important strategies for sleeping better. If you keep a regular sleep-wake schedule, you\'ll feel much more refreshed and energized than if you sleep the same number of hours at different times, even if you only alter your sleep schedule by an hour or two.
+
+Try to go to sleep and get up at the same time every day. This helps set your body\'s internal clock and optimize the quality of your sleep. Choose a bed time when you normally feel tired, so that you don\'t toss and turn. If you\'re getting enough sleep, you should wake up naturally without an alarm. If you need an alarm clock, you may need an earlier bedtime.
+
+Avoid sleeping in—even on weekends. The more your weekend/weekday sleep schedules differ, the worse the jetlag-like symptoms you\'ll experience. If you need to make up for a late night, opt for a daytime nap rather than sleeping in. This allows you to pay off your sleep debt without disturbing your natural sleep-wake rhythm.
+
+Be smart about napping. While napping is a good way to make up for lost sleep, if you have trouble falling asleep or staying asleep at night, napping can make things worse. Limit naps to 15 to 20 minutes in the early afternoon.
+
+Start the day with a healthy breakfast. Among lots of other health benefits, eating a balanced breakfast can help sync up your biological clock by letting your body know that it’s time to wake up and get going. Skipping breakfast on the other hand, can delay your blood sugar rhythms, lower your energy, and increase your stress, factors that may disrupt sleep.
+
+Fight after-dinner drowsiness. If you get sleepy way before your bedtime, get off the couch and do something mildly stimulating, such as washing the dishes, calling a friend, or getting clothes ready for the next day. If you give in to the drowsiness, you may wake up later in the night and have trouble getting back to sleep.</item>
+        <item>Book asdgasdgasdg2</item>
+        <item>Book 3</item>
+        <item>Book 4</item>
+        <item>Book 5</item>
+        <item>Book 6</item>
+        <item>Book 7</item>
+        <item>Book 8</item>
+        <item>Book 9</item>
+        <item>Book 10</item>
+
+    </string-array>
+
+    <string-array name="title_med">
+        <item>Boom shakalaka</item>
+        <item>Bookasdgasdg 2</item>
+        <item>Book 3</item>
+        <item>Book 4</item>
+        <item>Book 5</item>
+        <item>Book 6</item>
+        <item>Book 7</item>
+        <item>Book 8</item>
+        <item>Book 9</item>
+        <item>Book 10</item>
+
+    </string-array>
+
+    <string-array name="detail_med">
+        <item>Grrrrrr o something mildly stimulating, such as washing the dishes, calling a friend, or getting clothes ready for the next day. If you give in to the drowsiness, you may wake up later in the night and have trouble getting back to sleep.</item>
+        <item>Book asdgasdgasdg2</item>
+        <item>Book 3</item>
+        <item>Book 4</item>
+        <item>Book 5</item>
+        <item>Book 6</item>
+        <item>Book 7</item>
+        <item>Book 8</item>
+        <item>Book 9</item>
+        <item>Book 10</item>
+
+    </string-array>
+</resources>
